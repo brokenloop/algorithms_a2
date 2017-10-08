@@ -1,0 +1,9 @@
+Property Type: Apartment, Address: "Paradise_3", Register Number: 0
+Property Type: Apartment, Address: "Somewhere_4", Register Number: 1
+Property Type: Apartment, Address: "Devil’s_place_3", Register Number: 2
+Property Type: House, Address: "Paradise_13", Register Number: 3
+Property Type: House, Address: "Somewhere_14", Register Number: 4
+Property Type: House, Address: "Devil’s_place_13", Register Number: 5
+Property Type: Villa, Address: "Paradise_23", Register Number: 6
+Property Type: Villa, Address: "Somewhere_24", Register Number: 7
+Property Type: Villa, Address: "Devil’s_place_23", Register Number: 8

@@ -1,0 +1,8 @@
+Vehicle Type: Car, Owner: "Conan"
+Vehicle Type: Car, Owner: "John"
+Vehicle Type: Car, Owner: "Craig"
+Vehicle Type: Car, Owner: "Daragh"
+Vehicle Type: Truck, Owner: "Richie"
+Vehicle Type: Truck, Owner: "Sam"
+Vehicle Type: Truck, Owner: "Aoife"
+Vehicle Type: Truck, Owner: "Ralph"
